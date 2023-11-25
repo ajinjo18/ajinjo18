@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ajinjo-sl-899838269" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ajinjo-sl-899838269" height="30" width="40" />
+  <img align="center" src="![image](https://github.com/ajinjo18/ajinjo18/assets/137593781/cdba55bd-6942-47a8-9362-9b96903e2886)
+" alt="ajinjo-sl-899838269" height="30" width="40" />
 </a>
 <a href="https://twitter.com/@ajinjo18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ajinjo18" height="30" width="40" /></a>
 <a href="https://instagram.com/ajin__jo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajin__jo" height="30" width="40" /></a>
