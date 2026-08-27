@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://ajinjo18.github.io/personal-website/](https://ajinjo18.github.io/personal-website/)
+- 👨‍💻 All of my projects are available at [ajinjo.com](https://ajinjo-s-l.vercel.app/)
 
 - 📫 How to reach me **ajinajinjo18@gmail.com**
 
