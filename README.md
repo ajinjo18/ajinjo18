@@ -1,30 +1,183 @@
-<h1 align="center">Hi 👋, I'm AJINJO S L</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi, I'm AJINJO S L
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinjo18&label=Profile%20views&color=0e75b6&style=flat" alt="ajinjo18" /> </p>
+### Software Engineer | Full-Stack Developer | MERN & MEAN
 
-- 🔭 I’m currently working on **e-commerce**
+> Building modern, scalable, and user-focused web applications with a strong focus on clean code, backend development, and real-world problem solving.
 
-- 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [ajinjo.com](https://ajinjo-s-l.vercel.app/)
-
-- 📫 How to reach me **ajinajinjo18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ajinjo-sl-899838269" target="_blank">
-  <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="ajinjo-sl-899838269" width="40" height="40"/>
-</a>
-<a href="https://twitter.com/@ajinjo18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ajinjo18" height="40" width="40" /></a>
-<a href="https://instagram.com/ajin__jo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajin__jo" height="40" width="40" /></a>
+  <a href="https://ajinjo-s-l.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ajinjo-sl-899838269">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajinajinjo18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinjo18&show_icons=true&locale=en&layout=compact" alt="ajinjo18" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinjo18&show_icons=true&locale=en" alt="ajinjo18" /></p>
+I'm a **Software Engineer at Digitide Solutions** with **2+ years of professional experience** in full-stack web development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinjo18&" alt="ajinjo18" /></p>
+My primary expertise is in the **MERN and MEAN ecosystems**, where I build complete web applications covering frontend development, backend APIs, database integration, authentication, business logic, and deployment.
+
+I enjoy working across the entire development lifecycle — from designing responsive interfaces and REST APIs to database architecture, application deployment, and continuous improvement.
+
+* 💼 **Software Engineer @ Digitide Solutions**
+* 🚀 **2+ years of professional experience**
+* ⚡ **MERN & MEAN Stack Specialist**
+* 🛒 Experience building **e-commerce applications**
+* 🔌 Experienced in developing **RESTful APIs**
+* 🗄️ Comfortable with **MongoDB & MySQL**
+* ☁️ Familiar with **AWS, Docker & Kubernetes**
+* 🔄 Interested in **CI/CD and application deployment**
+* 🧩 Strong interest in **backend engineering & scalable systems**
+* 🌱 Continuously learning and adapting to new technologies
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c" />
+</p>
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+</p>
+
+**React.js · Angular · JavaScript · HTML5 · CSS3 · Bootstrap · Responsive UI**
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js · Express.js · REST APIs · Authentication · CRUD · API Integration**
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**MongoDB · MySQL · Mongoose · Database Design · Queries & Aggregation**
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx" />
+</p>
+
+**AWS · Docker · Kubernetes · Jenkins · Nginx · CI/CD · Linux**
+
+## 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+**Git · GitHub · Postman · Figma · VS Code**
+
+---
+
+# 🚀 Featured Project
+
+## 🛒 Full-Stack E-Commerce Platform
+
+A complete e-commerce application designed with separate user and administrative workflows.
+
+### 👤 User Features
+
+* 🔐 User registration & authentication
+* 🔑 Secure login & session management
+* 👤 Profile management
+* 📍 Multiple address management
+* 🛒 Shopping cart
+* ❤️ Wishlist
+* 🎟️ Coupon & discount system
+* 💳 Online payment integration
+* 📦 Order management
+* 🔄 Product return functionality
+
+### 👨‍💼 Admin Features
+
+* 📊 Admin dashboard
+* 📈 Sales & revenue analytics
+* 📦 Product management
+* 🗂️ Category management
+* 🎟️ Coupon management
+* 🏷️ Offers & discounts
+* 📋 Order management
+* 👥 User management
+* 📊 Business statistics
+
+### 🧰 Technology Stack
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `JavaScript` `Bootstrap` `Razorpay`
+
+---
+
+# 🌐 Portfolio
+
+Want to see more of my work, projects, skills, and experience?
+
+<p>
+  <a href="https://ajinjo-s-l.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinjo18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinjo18&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinjo18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajinjo-sl-899838269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ajinjo18">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ajin__jo">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ajinajinjo18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** `ajinajinjo18@gmail.com`
+
+🌐 **Portfolio:** [ajinjo-s-l.vercel.app](https://ajinjo-s-l.vercel.app/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajinjo18&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>💡 Build. Learn. Improve. Repeat.</b>
+</p>
